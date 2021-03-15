@@ -1,0 +1,15 @@
+h1{
+    color: yellowgreen;
+    font-size: 80px;
+}
+.test{
+    color: blue;
+    font-size: 40px;
+}
+body{
+    background-color: coral;
+}
+#unique{
+   color: cyan;
+   font-size: 30; 
+}
