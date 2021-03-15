@@ -1,0 +1,32 @@
+header, footer{
+    text-align: center;
+}
+
+body{
+    background-color:#223a6a;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1440;
+    padding-left: 10px;
+    height: 1727;
+    padding-right: 10px;
+    padding-right: 10px;
+    margin-bottom: 40px;
+
+}
+.test{
+   color: #ffffff; 
+}
+
+h2{
+    color: #55bb67 ;
+}
+p{
+    font-size: smaller; 
+}
+a{
+    color: red;
+}
+.cover{
+        padding: 20px 40px 20px 40px;
+        background-color: #12244d;
+}
